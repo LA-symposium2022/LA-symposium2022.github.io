@@ -47,7 +47,7 @@ h2 {
 }
 
 h3 {
-  border-width: 0px 0px 2px 2px;
+  border-width: 0px 0px 0px 4px;
   border-style: solid;
   border-color: teal;
   padding: 2px 2px 2px 2px;
@@ -119,6 +119,15 @@ h1 {
 
 #news {
   width: 100%;
+}
+
+#letters {
+  display: flex;
+  list-style-type: none;
+}
+
+#letters li {
+  margin-right: 1em;
 }
 
 .date {
