@@ -1,5 +1,7 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 
+permalink: :title:output_ext
+
 future: true
 
 kramdown:
