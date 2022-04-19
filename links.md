@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LA Symposium 2022
+title: LA Symposium 2022, リンク
 ---
 
 関連リンク

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: LA Symposium 2022, 夏のLA
+title: LA Symposium 2022, 冬のLA
 ---
 
-夏のLA開催概要
+冬のLA開催概要
 --------
 日程:
 
