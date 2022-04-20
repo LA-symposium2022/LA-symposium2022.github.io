@@ -15,7 +15,7 @@ footer,header,hgroup,menu,nav,section,main {
         display:block;
 }
 
-body { font-family: sans-serif; line-height: 150%; -webkit-text-size-adjust: none; }
+body { font-family: sans-serif; line-height: 150%; text-size-adjust: 100%; -webkit-text-size-adjust: none; }
 
 h1,h2,h3,p,table,dl { margin: 10px; }
 
