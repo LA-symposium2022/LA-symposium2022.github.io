@@ -1,0 +1,110 @@
+html, body
+{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section,main {
+        display:block;
+}
+
+body { padding-bottom: 40px;}
+
+
+header[role="banner"] h1{
+  margin: 0;
+  padding: 0;
+}
+
+header[role="banner"]{
+  margin: 0;
+  padding: 0 0 1em 0;
+  background: linear-gradient(#005C92 90%, #FFFFFF);
+  width: 100%;
+}
+
+
+h2:after {
+  content: "";
+  display: block;
+  height: 2px;
+  width:100%;
+  background-image: linear-gradient(to right, #005C92 90%, #FFFFFF);
+}
+
+/*
+header[role="banner"] nav { 
+  float:right;
+  position: relative;
+  left:-50%;
+  text-align:left;
+  height:1em;
+}
+*/
+
+#title a { color:white; text-decoration: none; }
+/* mark.selected { color: white; background-color: #005C92; font-weight: bold; font-size: 100%; }*/
+
+mark.selected {font-weight: bolder; background-color: #FFFFFF;}
+/* li.selected {list-style-type: circle; }*/
+
+main[role="main"]{
+  padding: 40px 60px;
+/*  width: 200px;*/
+}
+
+main p, ul, dl{
+  max-width: 1280px;
+}
+
+
+
+/* body { background-color: #005C92; } */
+
+/* #title { font-family: 'Dosis', sans-serif; text-align: center; } */
+
+/* #title { font-family: 'Schoolbell', cursive; text-align: center; } */
+
+ #title { font-family: 'Shadows Into Light', cursive; text-align: center; font-size: 500%;  color: white; padding: 30px; margin: 0; line-height:1;}
+
+/* #title { font-family: 'Covered By Your Grace', cursive; text-align: center; font-size: 50pt; } */
+
+/* #title { font-family: 'Architects Daughter', cursive; text-align: center; font-size: 50pt; } */
+
+
+body { font-family: sans-serif; }
+
+nav a { color: #005C92; font-weight: bold; font-size: 100%; }
+
+
+#menu { clear:left; width: 200px; float: right;}
+#menu li { list-style: none; margin-bottom: 2em; }
+#menu a { color: #005C92; text-decoration: none; }
+#menu a:hover { color: #005C92; text-decoration: underline; }
+
+main a { color: #005C92; text-decoration: none; }
+main a:hover { color: #005C92; text-decoration: underline; }
+
+footer {clear:both; text-align:center; }
+
+main > * { margin-right: 150px;}
+
+.baccount dt { float:left; clear:left; width: 10em;}
+.baccount dt:after { content: ":"; }
+/*
+.baccount dd { margin-left: 10em; }
+*/
+dl.baccount { border: 3px  solid  #005C92; border-radius: 10px; max-width: 30em; padding: 5px 10px; color: black; background-color: #EEEEEE; font-weight: bold;}
+
+#plan { border: 3px  solid  #005C92; border-radius: 20px; max-width: 50em; padding: 5px 40px; color: black; background-color: #EEEEEE; font-weight: bold; list-style-type: upper-alpha;}
+
+.paper dt { float:left; clear:left; width: 10em;}
+.paper dt:after { content: ":"; }
+dl.paper { border: 3px  solid  #005C92; border-radius: 10px; max-width: 50em; padding: 5px 10px; color: black; background-color: #EEEEEE; font-weight: bold;}

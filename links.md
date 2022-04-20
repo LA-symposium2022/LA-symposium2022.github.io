@@ -19,7 +19,7 @@ title: LA Symposium 2022, リンク
 * [LA 2018](http://www.nishino-lab.jp/la2018/)
 * [LA 2017](http://www.shino.ecei.tohoku.ac.jp/semi/LA2017/)
 * [LA 2016](https://junkawahara.github.io/la2016/)
-* LA 2015
+* [LA 2015](/LA2015)
 * [LA 2014](http://www.se.hiroshima-u.ac.jp/LA2014/)
 * LA 2013
 * [LA 2012](http://www-infosec.ist.osaka-u.ac.jp/LA2012/)
