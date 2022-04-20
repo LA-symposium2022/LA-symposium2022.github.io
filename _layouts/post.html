@@ -2,14 +2,15 @@
 layout: default
 ---
 
-<h2>
-事務局報一覧
-</h2>
-
 {% include letters.html %}
 
+<section>
 <h2>
-事務局報 {{ page.title }}
+事務局報 {{ page.lettertitle }}
 </h2>
 
 {{ content }}
+</section>
+
+{% include office.html %}
+

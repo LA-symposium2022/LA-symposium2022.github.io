@@ -53,12 +53,6 @@ h3 {
   padding: 2px 2px 2px 2px;
 }
 
-dt {
-  border-width: 0px 0px 0px 4px;
-  border-style: solid;
-  border-color: teal;
-  padding: 2px 2px 2px 2px;
-}
 
 #contents {
   display: flex;
@@ -136,11 +130,7 @@ h1 {
 }
 
 dt {
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   font-weight: bold;
-}
-
-dd {
-  margin-bottom: 1em;
 }
 
