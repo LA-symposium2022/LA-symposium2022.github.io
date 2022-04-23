@@ -57,7 +57,7 @@ title: LA Symposium 2022, 夏のLA
 * ページ番号は「発表番号-ページ」の組でページ下中央に表記してください． （発表番号が[88]の例： 88-1, 88-2, 88-3, ...）
 
 LaTeX 用の予稿のテンプレート （[LAtemplate.tex]({{ "/assets/tex/LAtemplate.tex" | relative_url }})）がございますので， どうぞご利用ください．
-5行目の「88」という数字をご自分の講演番号に書き換えていただくことで， 指定の書式の予稿を作成することができます （出力例：[LAtemplate.pdf]({{ "/assets/tex/LAtemplate.pdf" | relative_url }})）. 
+52行目の「88」という数字をご自分の講演番号に書き換えていただくことで， 指定の書式の予稿を作成することができます （出力例：[LAtemplate.pdf]({{ "/assets/tex/LAtemplate.pdf" | relative_url }})）. 
  
 
 会場アクセス、周辺環境
