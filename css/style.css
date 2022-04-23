@@ -137,5 +137,5 @@ dt {
 .baccount dt { float:left; clear:left; width: 10em;}
 .baccount dt:after { content: ":"; }
 .baccount dd { margin-left: 10em; }
-dl.baccount { border: 2px  solid  teal;  max-width: 30em; padding: 5px 10px; color: black; background-color: #EEEEEE; font-weight: bold;}
+dl.baccount { border: 2px  solid  teal;  width: max-content; max-width: 100%; padding: 5px 10px; color: black; background-color: #EEEEEE; font-weight: bold;}
 
