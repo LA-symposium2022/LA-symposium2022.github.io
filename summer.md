@@ -15,7 +15,7 @@ title: LA Symposium 2022, 夏のLA
 </dl>
  
 
-
+{::comment}
 参加登録
 --------
 ### 参加登録方法
@@ -62,3 +62,4 @@ LaTeX 用の予稿のテンプレート （[LAtemplate.tex]({{ "/assets/tex/LAte
 
 会場アクセス、周辺環境
 --------
+{:/comment}
