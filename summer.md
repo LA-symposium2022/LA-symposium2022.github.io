@@ -15,15 +15,17 @@ title: LA Symposium 2022, 夏のLA
 </dl>
 
 [プログラム](./summer_program.html)
+
+[![夏のLA2022](/assets/LA2022_summer.jpg){:width="100%"}](/assets/LA2022_summer.jpg)
  
 
+{::comment}
 参加登録
 --------
 ### 参加登録方法
 
 [オンラインの参加登録ページ](https://art.ist.hokudai.ac.jp/LA/sanka/)よりご登録ください． ご参加の申し込みは7月12日(火)までにお願いいたします． 学生の方も参加登録をお願いいたします．
 講演者の方も必ず参加登録ページより参加登録を期日までに済ませてくださいますようお願いいたします．
-<!-- (当日参加も可能です．) -->
 
 ※参加費の領収証が必要な場合は，その旨を備考欄にお書きください．
 
@@ -32,18 +34,15 @@ title: LA Symposium 2022, 夏のLA
 ### 参加費の振込
 
 以下の口座に7月12日(火)までに参加費10,000円をお振込みください． 学生の方は参加費無料です．
-<!-- 当日のお支払いも可能です． -->
 
 {% include bank.html %}
 
 ※振り込み手数料はご負担をお願いします．
 
-{::comment}
 講演申し込み
 --------
 [オンラインの講演申込ページ](https://art.ist.hokudai.ac.jp/LA/kouen/)よりご登録ください．ご講演の申し込みは6月24日(金)までにお願いいたします．
 講演者の方も必ず参加登録ページより参加登録を期日までに済ませてくださいますようお願いいたします．
-{:/comment}
  
 
 講演者の方へ
@@ -59,6 +58,7 @@ title: LA Symposium 2022, 夏のLA
 
 LaTeX 用の予稿のテンプレート ([LAtemplate.tex]({{ "/assets/tex/LAtemplate.tex" | relative_url }}))がございますので， どうぞご利用ください．
 52行目の「88」という数字をご自分の講演番号に書き換えていただくことで， 指定の書式の予稿を作成することができます (出力例：[LAtemplate.pdf]({{ "/assets/tex/LAtemplate.pdf" | relative_url }})). 
+{:/comment}
  
 {::comment}
 会場アクセス、周辺環境
