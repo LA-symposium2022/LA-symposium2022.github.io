@@ -34,6 +34,7 @@ title: LA Symposium 2022, 冬のLA
 保育室の設置
 --------
 保育室の設置を希望する参加者の方はLAシンポジウム事務局 la2022-office [at] googlegroups.com にメールをして頂きますようお願いいたします．
+なお，予算及び会場の都合により設置が出来ない場合がありますので，予めご了承下さい．
 
 講演者の方へ
 --------
@@ -54,6 +55,12 @@ title: LA Symposium 2022, 冬のLA
 
 LaTeX 用の予稿のテンプレート ([LAtemplate_w.tex]({{ "/assets/tex/LAtemplate_w.tex" | relative_url }})) がございますので， どうぞご利用ください．
 5行目の「88」という数字をご自分の講演番号に書き換えていただくことで， 指定の書式の予稿を作成することができます (出力例：[LAtemplate_w.pdf]({{ "/assets/tex/LAtemplate_w.pdf" | relative_url }})).
+
+参加者の方へ
+--------
+下記に記載の「行動規範」をご理解頂いたうえで参加頂ますようお願いいいたします．
+
+[https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html)
 
 
 LA/EATCS発表論文賞 (LA/EATCS Best Presentation Award)
