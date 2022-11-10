@@ -17,17 +17,17 @@ title: LA Symposium 2022, 冬のLA
 
 講演申込
 --------
-[オンラインの講演申込ページ](https://forms.gle/T6wCMaJn5KsUWDLT7)よりご登録ください．ご講演の申し込みは12月12日(月)までにお願いいたします．
+[オンラインの講演申込ページ](https://forms.gle/T6wCMaJn5KsUWDLT7){:target="_blank"}よりご登録ください．ご講演の申し込みは12月12日(月)までにお願いいたします．
 
 参加申込
 --------
-[オンラインの参加申込ページ](https://forms.gle/VLnfx8FkK4eJWugD9)よりご登録ください．ご参加の申し込みは12月25日(日)までにお願いいたします．
+[オンラインの参加申込ページ](https://forms.gle/VLnfx8FkK4eJWugD9){:target="_blank"}よりご登録ください．ご参加の申し込みは12月25日(日)までにお願いいたします．
 
 旅費補助について
 --------
 
 今年度も例年通り，京都大学数理解析研究所共同研究集会として開催されます． そのため，旅費の補助および講究録の作成を行います．
-旅費の補助を希望される方は，12月12日(月) までに[オンラインの受付ページ](https://forms.gle/nQWXW3Q5ZmSzgid9A)
+旅費の補助を希望される方は，12月12日(月) までに[オンラインの受付ページ](https://forms.gle/nQWXW3Q5ZmSzgid9A){:target="_blank"}
 よりお申し込みください．
 なお，旅費補助の希望者多数の場合には，事務局にて調整させていただきますので， あらかじめご了承願います． なお，学部学生は補助の対象外です．
 
@@ -60,7 +60,7 @@ LaTeX 用の予稿のテンプレート ([LAtemplate_w.tex]({{ "/assets/tex/LAte
 --------
 下記に記載の「行動規範」をご理解頂いたうえで参加頂ますようお願いいいたします．
 
-[https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html)
+<https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html>
 
 
 LA/EATCS発表論文賞 (LA/EATCS Best Presentation Award)
