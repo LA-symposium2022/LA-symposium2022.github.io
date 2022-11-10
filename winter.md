@@ -17,17 +17,17 @@ title: LA Symposium 2022, 冬のLA
 
 講演申込
 --------
-[オンラインの講演申込ページ](https://docs.google.com/forms/d/e/1FAIpQLSeV2VyMAC0vqeDJGS-Df5_2i2fULmN2KeljR_tVbOh34l4tCw/viewform?usp=sf_link)よりご登録ください．ご講演の申し込みは12月12日(月)までにお願いいたします．
+[オンラインの講演申込ページ](https://forms.gle/T6wCMaJn5KsUWDLT7)よりご登録ください．ご講演の申し込みは12月12日(月)までにお願いいたします．
 
 参加申込
 --------
-[オンラインの参加申込ページ](https://docs.google.com/forms/d/e/1FAIpQLScD-6_ZCr_9bT5EgtVkLnsnyAxj3ZvOqpNrSNxr1mJJtfxQFg/viewform?usp=sf_link)よりご登録ください．ご参加の申し込みは12月25日(日)までにお願いいたします．
+[オンラインの参加申込ページ](https://forms.gle/VLnfx8FkK4eJWugD9)よりご登録ください．ご参加の申し込みは12月25日(日)までにお願いいたします．
 
 旅費補助について
 --------
 
 今年度も例年通り，京都大学数理解析研究所共同研究集会として開催されます． そのため，旅費の補助および講究録の作成を行います．
-旅費の補助を希望される方は，12月12日(月) までに[オンラインの受付ページ](https://docs.google.com/forms/d/e/1FAIpQLSfxE20zFCpDQeaCyz6KmKytM420WjK7aCwRXOHYg0y99dy7mA/viewform?usp=sf_link)
+旅費の補助を希望される方は，12月12日(月) までに[オンラインの受付ページ](https://forms.gle/nQWXW3Q5ZmSzgid9A)
 よりお申し込みください．
 なお，旅費補助の希望者多数の場合には，事務局にて調整させていただきますので， あらかじめご了承願います． なお，学部学生は補助の対象外です．
 
