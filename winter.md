@@ -33,7 +33,7 @@ title: LA Symposium 2022, 冬のLA
 
 保育室の設置
 --------
-保育室の設置を希望する参加者の方はLAシンポジウム事務局 la2022-office [at] googlegroups.com にメールをして頂きますようお願いいたします．
+保育室の設置を希望する参加者の方は，12/26(月) までに(できればなるべく早めに)LAシンポジウム事務局 la2022-office [at] googlegroups.com にメールをして頂きますようお願いいたします．
 なお，予算及び会場の都合により設置が出来ない場合がありますので，予めご了承下さい．
 
 講演者の方へ
@@ -63,11 +63,11 @@ LaTeX 用の予稿のテンプレート ([LAtemplate_w.tex]({{ "/assets/tex/LAte
 <https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html>
 
 
-LA/EATCS発表論文賞 (LA/EATCS Best Presentation Award)
+LA/EATCS-Japan 発表論文賞，学生発表論文賞 (LA/EATCS-Japan Presentation Award, Student Presentation Award)
 --------
 
 2001年度より開始されましたLA発表論文賞ですが，2002年度からEATCS Japan
-Chapterと共同で，LA/EATCS発表論文賞と衣替えし，今回が第21回となります． EATCS Japan
+Chapterと共同で，LA/EATCS-Japan 発表論文賞と衣替えし，今回が第21回となります． EATCS Japan
 Chapter事務局各位には，暖かいご支援に厚く御礼申し上げます．
 
 
