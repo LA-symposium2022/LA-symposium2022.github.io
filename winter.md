@@ -15,14 +15,19 @@ title: LA Symposium 2022, 冬のLA
   <dd>〒606-8502 京都市左京区北白川追分町</dd>
 </dl>
 
+[プログラム](./winter_program.html)
+
+{::comment}
 講演申込
 --------
 [オンラインの講演申込ページ](https://forms.gle/T6wCMaJn5KsUWDLT7){:target="_blank"}よりご登録ください．ご講演の申し込みは12月12日(月)までにお願いいたします．
+{:/comment}
 
 参加申込
 --------
 [オンラインの参加申込ページ](https://forms.gle/VLnfx8FkK4eJWugD9){:target="_blank"}よりご登録ください．ご参加の申し込みは12月25日(日)までにお願いいたします．
 
+{::comment}
 旅費補助について
 --------
 
@@ -30,6 +35,7 @@ title: LA Symposium 2022, 冬のLA
 旅費の補助を希望される方は，12月12日(月) までに[オンラインの受付ページ](https://forms.gle/nQWXW3Q5ZmSzgid9A){:target="_blank"}
 よりお申し込みください．
 なお，旅費補助の希望者多数の場合には，事務局にて調整させていただきますので， あらかじめご了承願います． なお，学部学生は補助の対象外です．
+{:/comment}
 
 保育室の設置
 --------
