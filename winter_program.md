@@ -73,42 +73,42 @@ title: LA Symposium 2022, 冬のLAプログラム
 : ○ 岩野 尚弥	(電気通信大学),	木原 優	(電気通信大学)
 
 [S9] Left-Child列で表された二分木のグレイコード生成について
-: 
+: ○ 堀 沙和香	(前橋工科大学),	三河 賢治	(前橋工科大学)
 
 [S10] 耐量子計算機暗号HQCの復号誤り確率の解析の改良
-: 
+: ○ 山口 耕平	(三重大学),	河内 亮周	(三重大学)
 
 11:40-13:00 昼休み
 
 13:00-14:40 (100分) 一般セッション３
 
 [9] 直方体の格子展開図における重なり
-: 
+: ○ 塩田 拓海	(九州工業大学), 鎌田 斗南 (北陸先端科学技術大学院大学),	上原 隆平	(北陸先端科学技術大学院大学)
 
 [10] ハッシュ時生成落し戸付きカメレオンハッシュの安全性について
-: 
+: ○ 濱田 花風	(東京工業大学),	吉田 雄祐	(東京工業大学),	田中 圭介	(東京工業大学)
 
 [11] Turedo, a novel class of Turing machines for programming RNA co-transcriptional folding
-: 
+: Daria Pchelina	(LIPN, Institut Galilée– Université Paris 13), Nicolas Schabanel	(ENS Lyon), ○ Shinnosuke Seki (The University of Electro-Communications), Guillaume Theyssier	(Aix-Marseille Université)
 
 [12] 複雑形状における内外判定法の応用
-: 
+: ○ 児玉 賢史	(東京国際工科専門職大学)
 
 14:40-14:55 休み
 
 14:55-16:25 (90分) 学生セッション３
 
 [S11] 互いに支配する極小a,b-セパレータの分布について
-:
+: ○ 野村 幸平	(東京電機大学大学院理工学研究科), 山崎 浩一	(東京電機大学)
 
 [S12] 確率的対数領域計算による確率行列のスペクトルギャップ増幅
-:
+: ○ 鈴木 健介	(三重大学),	Maharshi Ray	(三重大学),	Francois Le Gall	(名古屋大学), 河内 亮周	(三重大学)
 
 [S13] ラプラシアン行列の固有値に関する木幅の下界とその改善
-:
+: ○ 野呂 浩平	(名古屋大学), 儀間 達也	(名古屋大学),	土中 哲秀	(九州大学),	大舘 陽太	(名古屋大学),	小野 廣隆	(名古屋大学)
 
 [S14] Graph Linear Notations with Regular Expressions
-:
+: ○ 三村 廉	(茨城大学), 宮部 恭兵	(茨城大学),	宮本 賢伍	(茨城大学),	藤芳 明生 (茨城大学)
 
 [S15] 2x2x1ピースを用いたアンチスライドの充填率の上界
 :
