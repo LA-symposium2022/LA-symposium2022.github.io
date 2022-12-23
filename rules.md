@@ -40,7 +40,7 @@
 
 のようにする．
 
-滞納年数が長い場合などは，より詳しい例(2019年度に滞納分と2019年度分を支払う場合に[最終振込年度毎の納入すべき年数]({{ "/assets/fee/kaihi_taino_simulation_1.pdf"" | relative_url }})と[サンプル]({{ "/assets/fee/kaihi_taino_simulation_2.pdf"" | relative_url }}))をご覧ください．
+滞納年数が長い場合などは，より詳しい例(2019年度に滞納分と2019年度分を支払う場合に[最終振込年度毎の納入すべき年数]({{ "/assets/fee/kaihi_taino_simulation_1.pdf" | relative_url }})と[サンプル]({{ "/assets/fee/kaihi_taino_simulation_2.pdf" | relative_url }}))をご覧ください．
 
 
 ### 会誌の発送に関するルール
