@@ -41,7 +41,8 @@ title: LA Symposium 2022, 冬のLA
 --------
 本 RIMS 共同研究集会の会期中（1/30-2/1）に京都大学内（[旧演習林事務室](https://www.kyoto-u.ac.jp/ja/about/facilities/campus/kyoshokuin/ensyuurin){:target="_blank"}）に保育室を設置することが決まりました．今年度は利用料が無料とのことです．  
 利用希望者は以下の URL より各自お申し込みください．締め切りは 1/13 (金) です．  
-https://cscs.alpha-co.com/event_yoyaku_kihon_form.jsp?E=3113379*VCr4l  
+[https://cscs.alpha-co.com/event_yoyaku_kihon_form.jsp?E=3113379*VCr4l](https://cscs.alpha-co.com/event_yoyaku_kihon_form.jsp?E=3113379*VCr4l  
+){:target="_blank"}  
 
 {::comment}
 保育室の設置を希望する参加者の方は，12/26(月) までに(できればなるべく早めに)LAシンポジウム事務局 la2022-office [at] googlegroups.com にメールをして頂きますようお願いいたします．
