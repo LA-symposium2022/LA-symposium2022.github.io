@@ -34,7 +34,7 @@ title: LA Symposium 2022, 冬のLAプログラム
 : ◎ 駿河 大樹 (名古屋大学)
 
 [3] Online Job Scheduling with k Servers
-: ○ Jiang Xuanke (九州大学), Sherief Hashima (理研AIP), 畑埜 晃平 (九州大学/理研AIP), 瀧本 英二 (九州大学)
+: ◎ Jiang Xuanke (九州大学), Sherief Hashima (理研AIP), 畑埜 晃平 (九州大学/理研AIP), 瀧本 英二 (九州大学)
 
 [4] 極大一般化回文
 : ○ 舩越 満 (九州大学), 三重野 琢也 (電気通信大学), 中島 祐人, 稲永 俊介 (九州大学), 坂内 英夫 (東京医科歯科大学), 竹田 正幸 (九州大学)
