@@ -102,7 +102,7 @@ title: LA Symposium 2022, 冬のLAプログラム
 : ◎ 塩田 拓海	(九州工業大学), 鎌田 斗南,	上原 隆平	(北陸先端科学技術大学院大学)
 
 [10] ハッシュ時生成落し戸付きカメレオンハッシュの安全性について
-: ○ 濱田 花風,	吉田 雄祐,	田中 圭介	(東京工業大学)
+: ◎ 濱田 花風,	吉田 雄祐,	田中 圭介	(東京工業大学)
 
 [11] Turedo, a novel class of Turing machines for programming RNA co-transcriptional folding
 : Daria Pchelina	(LIPN, Institut Galilée– Université Paris 13), Nicolas Schabanel	(ENS Lyon), ○ Shinnosuke Seki (The University of Electro-Communications), Guillaume Theyssier	(Aix-Marseille Université)
